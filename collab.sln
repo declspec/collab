@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "collab.api", "src\collab.api\collab.api.csproj", "{E6D9C2A3-09F4-4DFD-A714-FB5528A9B0C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collab.auth", "src\collab.auth\collab.auth.csproj", "{B0041E43-614E-4D53-855E-C3D00879FC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D9C2A3-09F4-4DFD-A714-FB5528A9B0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D9C2A3-09F4-4DFD-A714-FB5528A9B0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D9C2A3-09F4-4DFD-A714-FB5528A9B0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D9C2A3-09F4-4DFD-A714-FB5528A9B0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0041E43-614E-4D53-855E-C3D00879FC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0041E43-614E-4D53-855E-C3D00879FC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0041E43-614E-4D53-855E-C3D00879FC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0041E43-614E-4D53-855E-C3D00879FC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5727BE2-5731-42B9-A16B-282E9CA731F9}
+	EndGlobalSection
+EndGlobal

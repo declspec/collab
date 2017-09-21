@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+.vscode/
+Debug/
+Release/
+*.lock.json
+node_modules/
+typings/
+*.log
+*.key
